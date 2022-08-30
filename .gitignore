@@ -10,7 +10,6 @@
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
-/bin/*
 !/log/.keep
 !/tmp/.keep
 
