@@ -5,19 +5,19 @@ The Blog app is a classic example of a blog website. I created a fully functiona
 # Getting Started
 To get a local copy up and running follow these simple example steps.
 
-Copy this link https://github.com/Richez003/Rails-Blog.
+Copy this link `https://github.com/Richez003/Rails-Blog.`
 
 Get the directory that you want to clone the repository.
 
 Open the command prompt in this directory.
 
-Write https://github.com/Richez003/Rails-Blog
+Write `https://github.com/Richez003/Rails-Blog`
 
 Go to the repository folder in your command prompt cd blog-app.
 
 Follow these steps to run the app:
 
-run `gem install`, then run rails s
+run `gem install`, then run `rails`
 
 ## Author
 
