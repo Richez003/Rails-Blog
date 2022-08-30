@@ -5,11 +5,12 @@
 #   git config --global core.excludesfile '~/.gitignore_global'
 
 # Ignore bundler config.
-/.bundle
+./bin/bundle.rb
 
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
+/bin/*
 !/log/.keep
 !/tmp/.keep
 
